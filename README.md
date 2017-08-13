@@ -7,9 +7,11 @@ Instructions:
 - Need OpenCV installed
 - put the screen shots in the predict folder
 - run detector.py
-- get the result from both the screen and the csv file for details
+- get the result from both the screen and the preditction.csv file for details
 
-have fun.
+Currently the script support 39 fonts, see the labelencoder.csv for details.
+
+Have fun.
 
 
 
